@@ -29,7 +29,7 @@ I am an aspiring **Cybersecurity Researcher** and **Junior Penetration Tester**.
 ---
 
 ### 🤝 Connect with Me
-- **GitHub:** [H4cker0099](https://github.com/BekzhanSec)
+- **GitHub:** [BekzhanSec](https://github.com/BekzhanSec)
 
 ---
 
